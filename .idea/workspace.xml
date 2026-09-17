@@ -53,11 +53,11 @@
     "url": "https://github.com/Besian-Haliti/bes-app-backend.git",
     "accountId": "0650b5b7-5374-4616-9e53-6e529ddce168"
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JT1MVdU6ZfEd9qrJx3DzGM5jqo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
